@@ -1,7 +1,7 @@
 
 # Laser4DIY TEC Controller
 
-![TEC Controller board](hardware/finalboard.jpg)
+![TEC Controller board](/Hardware/finalboard.jpg?raw=true)
 
 This is the repository for the TEC (Thermo Electrical Cooling) controller used in the [Laser4DIY project](http://www.laser4diy.org/).
 
@@ -33,18 +33,20 @@ This is the repository for the TEC (Thermo Electrical Cooling) controller used i
 
 ## Documentation
 
-The TEC Controller is documented at 
-https://wiki.fablab-muenchen.de/display/WIKI/LASER4DIY+-+TEC+Controller
+The TEC Controller is documented at [FabLab München Wiki](https://wiki.fablab-muenchen.de/display/WIKI/LASER4DIY+-+TEC+Controller)
 
 ## License
 
 The hardware documentation is licensed under CERN OHL v.1.2.
+
 The firmware is licensed under GPLv3.
+
 For details see licensing info in the respective sub directories
 
 ---
 
-Copyright FabLab M�nchen e.V. 2018
+Copyright FabLab München e.V. 2018
+
 Laser4DIY is sponsored by the Federal Ministry of Education and Research
 
  
