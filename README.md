@@ -1,7 +1,7 @@
 
 # Laser4DIY TEC Controller
 
-![alt text](hardware/finalboard.jpg "TEC Controller board")
+![TEC Controller board](hardware/finalboard.jpg)
 
 This is the repository for the TEC (Thermo Electrical Cooling) controller used in the [Laser4DIY project](http://www.laser4diy.org/).
 
@@ -20,7 +20,6 @@ This is the repository for the TEC (Thermo Electrical Cooling) controller used i
 | + LICENSE.txt                 license for the fimware
 | + main_loop.ino               source code
 | + main_setup.ino              source code
-| + README.txt                  firmware readme
 + Hardware                      hardware directory
 | + cern_ohl_v_1_2_howto.pdf    Howto for the used hardware license
 | + CHANGES.txt                 list of hardware changes
